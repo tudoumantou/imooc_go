@@ -1,0 +1,6 @@
+.idea/
+
+zhenai/parser/*.html
+zhipin/parser/*.html
+
+*.sh

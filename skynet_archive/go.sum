@@ -1,0 +1,15 @@
+github.com/jondot/gosigar v0.0.0-20130525180105-0f165fc7a471 h1:Nm7KfL2jgi9X64hFSqbrzbR7hVTkNzzOjNasuW0lSIc=
+github.com/jondot/gosigar v0.0.0-20130525180105-0f165fc7a471/go.mod h1:ecOvwpDCQtYAQL1m+1E8WW7NcPHccyqr8XAJNqRuejA=
+github.com/kr/pretty v0.2.1 h1:Fmg33tUaq4/8ym9TJN1x7sLJnHVwhP33CNkpYV/7rwI=
+github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
+github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
+github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
+github.com/robfig/config v0.0.0-20141207224736-0f78529c8c7e h1:3/9k/etUfgykjM3Rx8X0echJzo7gNNeND/ubPkqYw1k=
+github.com/robfig/config v0.0.0-20141207224736-0f78529c8c7e/go.mod h1:Zerq1qYbCKtIIU9QgPydffGlpYfZ8KI/si49wuTLY/Q=
+github.com/skynetservices/skynet v0.0.0-20131024153847-c1e213743e42 h1:4rTNmft7w9a3lED4SCjxA9J9v+f58tYTZCiwJGYXGrg=
+github.com/skynetservices/skynet v0.0.0-20131024153847-c1e213743e42/go.mod h1:egb2+J5TRPzxDKsylWDRWt2h83NFTWuGwDwI/djD53M=
+labix.org/v2/mgo v0.0.0-20140701140051-000000000287 h1:L0cnkNl4TfAXzvdrqsYEmxOHOCv2p5I3taaReO8BWFs=
+labix.org/v2/mgo v0.0.0-20140701140051-000000000287/go.mod h1:Lg7AYkt1uXJoR9oeSZ3W/8IXLdvOfIITgZnommstyz4=
+launchpad.net/gocheck v0.0.0-20140225173054-000000000087 h1:Izowp2XBH6Ya6rv+hqbceQyw/gSGoXfH/UPoTGduL54=
+launchpad.net/gocheck v0.0.0-20140225173054-000000000087/go.mod h1:hj7XX3B/0A+80Vse0e+BUHsHMTEhd0O4cpUHr/e/BUM=
